@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 results/
+evaluation_result.csv
+evaluation_result.txt
+model_only_results.csv
+.DS_Store

@@ -1,0 +1,76 @@
+{
+ "res": {
+  "tuned_recall": [
+   134,
+   134
+  ],
+  "tuned_fp": [
+   0,
+   75
+  ],
+  "unseen_recall": [
+   34,
+   60
+  ],
+  "unseen_fp": [
+   4,
+   60
+  ]
+ },
+ "obf": {
+  "original": 134,
+  "uppercase": 134,
+  "leetspeak": 129,
+  "zero-width": 134,
+  "dotted": 134,
+  "accents": 134,
+  "spaced letters": 2,
+  "homoglyph": 1
+ },
+ "obf_nonorm": {
+  "original": 134,
+  "uppercase": 134,
+  "leetspeak": 0,
+  "zero-width": 0,
+  "dotted": 0,
+  "accents": 0,
+  "spaced letters": 2,
+  "homoglyph": 1
+ },
+ "base": 134,
+ "abl": {
+  "with_override": {
+   "tuned_fp": 0,
+   "unseen_fp": 4,
+   "tuned_recall": 134,
+   "unseen_recall": 34
+  },
+  "without_override": {
+   "tuned_fp": 6,
+   "unseen_fp": 8,
+   "tuned_recall": 134,
+   "unseen_recall": 34
+  }
+ },
+ "rules": 82,
+ "defensible": 29,
+ "cats": {
+  "injection": 12,
+  "weapons": 6,
+  "violence": 9,
+  "self_harm": 2,
+  "crime": 12,
+  "cyber": 17,
+  "fraud": 9,
+  "harassment": 3,
+  "child_safety": 1,
+  "drugs": 5,
+  "privacy": 6
+ },
+ "lat": {
+  "mean": 0.0781323069906429,
+  "median": 0.0788129999875764,
+  "p95": 0.1311059999977715,
+  "max": 0.15913099998954294
+ }
+}
